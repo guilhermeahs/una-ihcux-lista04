@@ -6,3 +6,13 @@
 ## Funcionalidades desse codigo em C#
 
 Esse código limpa a tela, exibe o nome do sistema e pede a idade do usuário. Em seguida, verifica se a idade é suficiente para liberar ou negar o acesso. Ele também usa try-catch para tratar erros de digitação, como quando o usuário insere letras em vez de números, mostrando uma mensagem mais amigável. No final, o programa encerra de forma organizada, restaurando as cores do console e aguardando uma tecla para fechar.
+
+## Evidencias
+# Sucesso
+![Print do terminal rodando o projeto](./evidencia-sucesso.png)
+
+# Erro
+![Print do terminal rodando o projeto](./evidencia-erro.png)
+
+# Extra
+![Print do terminal rodando o projeto](./evidencia-extra.png)
